@@ -1,0 +1,15 @@
+/Users/yasirunisal/Desktop/projects/ToDoApp/bin/Debug/net9.0/ToDoApp
+/Users/yasirunisal/Desktop/projects/ToDoApp/bin/Debug/net9.0/ToDoApp.deps.json
+/Users/yasirunisal/Desktop/projects/ToDoApp/bin/Debug/net9.0/ToDoApp.runtimeconfig.json
+/Users/yasirunisal/Desktop/projects/ToDoApp/bin/Debug/net9.0/ToDoApp.dll
+/Users/yasirunisal/Desktop/projects/ToDoApp/bin/Debug/net9.0/ToDoApp.pdb
+/Users/yasirunisal/Desktop/projects/ToDoApp/obj/Debug/net9.0/ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yasirunisal/Desktop/projects/ToDoApp/obj/Debug/net9.0/ToDoApp.AssemblyInfoInputs.cache
+/Users/yasirunisal/Desktop/projects/ToDoApp/obj/Debug/net9.0/ToDoApp.AssemblyInfo.cs
+/Users/yasirunisal/Desktop/projects/ToDoApp/obj/Debug/net9.0/ToDoApp.csproj.CoreCompileInputs.cache
+/Users/yasirunisal/Desktop/projects/ToDoApp/obj/Debug/net9.0/ToDoApp.sourcelink.json
+/Users/yasirunisal/Desktop/projects/ToDoApp/obj/Debug/net9.0/ToDoApp.dll
+/Users/yasirunisal/Desktop/projects/ToDoApp/obj/Debug/net9.0/refint/ToDoApp.dll
+/Users/yasirunisal/Desktop/projects/ToDoApp/obj/Debug/net9.0/ToDoApp.pdb
+/Users/yasirunisal/Desktop/projects/ToDoApp/obj/Debug/net9.0/ToDoApp.genruntimeconfig.cache
+/Users/yasirunisal/Desktop/projects/ToDoApp/obj/Debug/net9.0/ref/ToDoApp.dll
